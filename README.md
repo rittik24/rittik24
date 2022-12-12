@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **rttkhaldar@gmail.com**
 
-- 📄 Know about my Portfolio [https://rittik24.github.io](https://rittik24.github.io)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rittik-haldar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rittik-haldar" height="30" width="40" /></a>
