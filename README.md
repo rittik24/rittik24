@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rittik24](https://github.com/rittik24)
 
-- 💬 Ask me about **React.js, Node.js, MongoDB**
+- 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB**
 
 - 📫 How to reach me **rttkhaldar@gmail.com**
 
